@@ -43,7 +43,7 @@ python "Number Guessing Game .py"
 
 # 🖥️ Screen Recording
 
-(Add a video showing the user guessing the number)
+https://github.com/user-attachments/assets/cafc61d5-7b65-4a7c-8444-101e50848f08
 
 # 📝 Notes
 
