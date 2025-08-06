@@ -26,20 +26,13 @@ An entertaining and beginner-friendly game where you try to guess the number ran
 
 # 🚀 Installation & Usage
 
-Requirements:
+1. **Requirements**:
+   - Python 3.6+
+   - Tkinter (usually comes with Python)
 
-Python 3.6+
-
-Tkinter module
-
-random (standard module)
-
-Running the application:
-
-bash
-Copy
-Edit
-python "Number Guessing Game .py"
+2. **Running the application**:
+   ```bash
+   python Number Guessing Game.py
 
 # 🖥️ Screen Recording
 
